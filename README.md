@@ -6,5 +6,28 @@
 [Link to paper](https://arxiv.org/abs/2105.03578)  
 
 <p align="center">
-  <img src="assets/teaser.png" alt="Given an interest point detector, our repeatability predictor predicts the repeatability of interest points as a function of time." width="600" />
+  <img src="assets/teaser.png" alt="Given an interest point detector, our repeatability predictor predicts the repeatability of interest points as a function of time." width="500" />
 </p>
+
+
+## ✏️ 📄 Citation
+
+If you find our work useful or interesting, please consider citing [our paper](https://arxiv.org/abs/2008.09497):
+
+```
+@inproceedings{doan-2021-time-repeatability,
+ title   = {Learning to Predict Repeatability of Interest Points},
+ author  = {Anh-Dzung Doan and
+            Daniyar Turmukhambetov and
+            Yasir Latif and
+            Tat-Jun Chin and
+            Soohyun Bae
+           },
+ booktitle = {IEEE International Conference on Robotics and Automation ({ICRA})},
+ year = {2021}
+}
+```
+
+
+# 👩‍⚖️ License
+Copyright © Niantic, Inc. 2021. Patent Pending. All rights reserved. Please see the license file for terms.
