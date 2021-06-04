@@ -12,7 +12,7 @@
 <p align="center">
   <a
 href="https://storage.googleapis.com/niantic-lon-static/research/time-repeatability/10min.mp4">
-  <img src="assets/video_thumbnail.png" alt="10 minute ICRA presentation video link" width="400">
+  <img src="assets/video_thumbnail.png" alt="10 minute ICRA presentation video link" width="500">
   </a>
 </p>
 
