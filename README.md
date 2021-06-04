@@ -9,6 +9,13 @@
   <img src="assets/teaser.png" alt="Given an interest point detector, our repeatability predictor predicts the repeatability of interest points as a function of time." width="500" />
 </p>
 
+<p align="center">
+  <a
+href="https://storage.googleapis.com/niantic-lon-static/research/time-repeatability/10min.mp4">
+  <img src="assets/video_thumbnail.png" alt="10 minute ICRA presentation video link" width="400">
+  </a>
+</p>
+
 
 ## ✏️ 📄 Citation
 
